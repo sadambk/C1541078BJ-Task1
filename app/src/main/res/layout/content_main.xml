@@ -28,7 +28,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Welcome to my counting mini game!      I will pick random name. Guess how many letters are in it"
+        android:text="Welcome to my mini counting game!      I will pick random name. Guess how many letters are in it"
         android:id="@+id/textView"
         android:layout_gravity="center_horizontal"
         android:layout_weight="0.21"
